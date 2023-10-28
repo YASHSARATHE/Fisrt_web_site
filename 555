@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Amarnath plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #237887;
+            font-size: small;
+            color: #fff;
+        }
+        
+        .centered-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            padding: 60px;
+            background-color: #fff;
+            border-radius: 2px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        img {
+            max-width: 500px;
+            height: auto;
+        }
+        
+        .content {
+            margin-top: 100px;
+        }
+        
+        h1 {
+            font-size: 24px;
+            margin: 0;
+            color: rgb(33, 6, 6);
+        }
+        
+        p {
+            font-size: 16px;
+            color: #333;
+        }
+        li{
+            font-size: large;
+        }
+        
+        
+    </style>
+</head>
+<body>
+    
+    <div class="centered-container">
+        <img src="ay.jpg" alt="Centered Image">
+        </div>
+        <div>
+            <h1><u>Kerala Tour Plan-1</u></h1>
+            <br>
+            <div>
+                
+
+<BR>
+  <BR>
+               
+                <li><b>Day 02:</b> On the way.</li>
+                <BR> 
+                <li><b>Day 03:</b>  Reach  Cochin 07:30AM,  check in Hotel , after breakfast  go for Sightseeing at Cochin, Chinees fishing net, Vasgodigama,s Grave, Duch Palace,  Zinagoug (jewish Chruch) And Shopping after that back to Hotel and over night stay at hotel.</li>
+                <BR>
+                <li><b>Day 04:</b>  After breakfast we will take you to Munnar (145 Kms / 04 Hrs).on the way u can enjoy Watter falls, arrival at Munnar checkin hotel ,Overnight stay.</li>
+                <BR>
+                <li><b>Day 05:</b>  After Breakfast  full day sightseeing trip of Munnar - Visiting – Rajamalai,( Eravikulam Wildlife sanctuary    Mattupetty  Dam, Echo Point, Kundale Dam, Blossom Park  & Tea Plantation. Overnight stay in Munnar.</li>
+                <BR>
+                <li><b>Day 06:</b> After break fast we departure for Thekkady . On arrival at Thekkady check into Hotel. After lunch  visit  Periyar lake to view the wildlife at the Periyar tiger reserve. Night stay Thekkedy.</li>
+                <BR>
+                <li><b>Day 07:</b> After breakfast departure for Alleppey On arrival At aleppy board on to the houseboat . Rest of the day  on the House Boat For the Cruise.  Boat cruises through the backwater canals of Alleppey. Welcome Drink Lunch, Evening  snacks, dinner and Overnight stay on House Boat.</li>
+                <BR>
+                <li><b>Day 08:</b> Early morning departure for Kanyakumari on the way Visit Padmanabhaswamy Temple, Kovalam Beach. Evening take train from Kanyakumari To Bhopal.</li>
+                <BR>
+                <li><b>Day 09:</b> On the way.</li>
+                <BR>
+                <li><b>Day 10:</b> Morning reach Bhopal at 9.00AM.</li>
+                <BR>
+                <BR>
+                  <p> <b>Package Rs.</b> 31,500.00(AC-2), 29,500.00(AC-3)</p>
+                  <p><b>Included:</b></p>
+                <ol>
+                    <Li> AC-3 Train tkt Bhopal-Katra-Bhopal.</Li>
+                    <li>AC/ Non AC Rooms in standard class hotels.</li>
+                    <li>AC/ Non AC Tempo Traveller</li>
+                    <li>Daily breakfast +Lunch +Dinner in hotel or Restaurant  except Amarnath darshan day.</li>
+                </ol>
+                  
+                <p><b>Excluede:</b></p>
+                <ol>
+                   
+                    <li>Entry Ticket/ Temple Ticket / any pvt. Activity.</li>
+                    <li>Guide Charge.</li>
+                    <li>Local Auto/ Riksha.</li>
+                    <li> Any other services which are not mentioned in inclusion.</li>
+                </ol>
+        </div>
+    </div>
+</body>
+</html>
